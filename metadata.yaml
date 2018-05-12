@@ -1,0 +1,40 @@
+_repo: The-Story-of-Dago_17429
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Barry, Etheldred B. (Etheldred Breeze)
+    aliases:
+    - Barry, Ethelred Breeze
+    - Barry, Etheldred Breeze
+    - Barry, E. B. (Etheldred Breeze)
+    birthdate: 1870
+    gutenberg_agent_id: '6348'
+    url: http://www.gutenberg.org/2009/agents/6348
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Johnston, Annie F. (Annie Fellows)
+    aliases:
+    - Fellows, Annie
+    - Johnston, Annie Fellows
+    birthdate: 1863
+    deathdate: 1931
+    gutenberg_agent_id: '3050'
+    url: http://www.gutenberg.org/2009/agents/3050
+    wikipedia: http://en.wikipedia.org/wiki/Annie_Fellows_Johnston
+description: ''
+gutenberg_issued: '2005-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17429'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Monkeys -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Story of Dago
+url: http://www.gutenberg.org/ebooks/17429
