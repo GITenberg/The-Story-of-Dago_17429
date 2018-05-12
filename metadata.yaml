@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3050
     wikipedia: http://en.wikipedia.org/wiki/Annie_Fellows_Johnston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17429#The-Story-of-Dago
 gutenberg_issued: '2005-12-31'
 gutenberg_type: Text
 identifiers:
